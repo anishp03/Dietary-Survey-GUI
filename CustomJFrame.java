@@ -241,7 +241,7 @@ public class CustomJFrame extends JFrame {
 		gbc.anchor = GridBagConstraints.CENTER;
 		this.add(checkBoxes, gbc);
 		
-		//walking questino label
+		//walking question label
 		walkLabel = new JLabel("On average, how many miles do you walk in a day?");
 		gbc.gridx = 0;
 		gbc.gridy = 15;
