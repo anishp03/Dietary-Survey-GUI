@@ -1,2 +1,6 @@
 # Dietary-Survey-GUI
-This program is a custom user interface that takes in user data and stores it into a Excel file when submitted
+This program creates a custom GUI allowing users to enter dietary 
+information into a survey and then clear or submit the answer fields. The submit
+button will record the answers in an Excel file and clear all the text fields
+to prepare for the next user. The clear button lets you restart the form
+without submitting it to the survey results file.
